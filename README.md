@@ -37,5 +37,5 @@ weather API and displays key weather details in the console.
    ```bash
    python weather.py
 
-   ## Author
+## Author
 Priya Malhotra
