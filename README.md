@@ -4,7 +4,7 @@ Python Weather App using API – Task 3 assigned by Interncred
 ## Weather App (Python)
 
 This repository contains a Python-based Weather Application developed as part of
-Task 3 assigned by InternCred during the internship.
+Task 3 assigned by Interncred during the internship.
 
 The application fetches real-time weather data for any specified city using a
 weather API and displays key weather details in the console.
@@ -33,3 +33,9 @@ weather API and displays key weather details in the console.
 1. Install dependencies:
    ```bash
    pip install requests
+2. Run the program and enter the city name when prompted:
+   ```bash
+   python weather.py
+
+   ## Author
+Priya Malhotra
